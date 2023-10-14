@@ -5,8 +5,8 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Shreyash Joshi</h1>
-        <p>+91 7838549552 | shreyashjoshi3002@gmail.com</p>
+        <h1>Siddhartha malik</h1>
+        <p>+91 7838549552 | siddharthamalik3002@gmail.com</p>
       </header>
 
       <section className="education">
